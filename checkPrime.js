@@ -13,7 +13,7 @@ var result = isPrime(139);
 console.log(result);
 var a = 5;
 var b = 7;
-// console.log("before: a =", a, "b =", b);
+console.log("before: a =", a, "b =", b);
 var temp = a;
 a = b;
 b = temp;
