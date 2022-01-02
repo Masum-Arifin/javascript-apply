@@ -24,7 +24,6 @@ x = x + y;
 y = x - y;
 x = x - y;
  console.log("after swap: x =", x, "y =", y);
-
 var p = 5;
 var q = 7;
 
