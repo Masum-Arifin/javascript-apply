@@ -28,7 +28,7 @@ x = x - y;
 var p = 5;
 var q = 7;
 
-// [p, q] = [q, p];
+[p, q] = [q, p];
 console.log("after swap: p =", p, "q =", q);
 
 var num = 2.4999999;
