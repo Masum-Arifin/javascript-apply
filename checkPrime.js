@@ -31,7 +31,7 @@ var q = 7;
 [p, q] = [q, p];
 console.log("after swap: p =", p, "q =", q);
 
-// var num = 2.4999999;
+var num = 2.4999999;
 var result = Math.floor(num);
 var result2 = Math.ceil(num);
 var result3 = Math.round(num);
