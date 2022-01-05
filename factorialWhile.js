@@ -6,5 +6,3 @@ function factorial(n){
       i++;
     } return fact;
 }
-var result = factorial(10);
-console.log(result);
