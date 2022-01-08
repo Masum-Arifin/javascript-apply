@@ -3,7 +3,7 @@ function factorial(n){
     var fact = 1;
     while (i <= n) {
       fact = fact * i;
-      // i++;
+      i++;
     } return fact;
 }
 var result = factorial(10);
