@@ -4,7 +4,7 @@ function factorial(n){
     while (i <= n) {
       fact = fact * i;
       i++;
-    // } return fact;
+    } return fact;
 }
 var result = factorial(10);
 console.log(result);
