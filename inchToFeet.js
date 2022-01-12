@@ -4,7 +4,7 @@ function inchToFeet(inch){
 }
 var senior = [156, 288, 300];
 
-// var nanaFeet = inchToFeet(156);
+var nanaFeet = inchToFeet(156);
 console.log(nanaFeet);
 var naniFeet = inchToFeet(288);
 console.log(naniFeet);
