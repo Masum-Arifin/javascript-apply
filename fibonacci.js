@@ -14,5 +14,5 @@ function fibonacci(n) {
     }
 }
 
-var result =fibonacci(10000);
+// var result =fibonacci(10000);
 console.log(result);
